@@ -100,3 +100,6 @@ Generate random large primes
 Support text-to-number encoding
 
 Implement digital signatures
+
+
+⚠️ This project is for educational purposes only. It does not aim to break or bypass security systems.
